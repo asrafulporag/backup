@@ -13,7 +13,7 @@ from google.auth.transport.requests import Request
 # In[3]:
 
 
-BLOG_ID = "2980244302253907805"
+BLOG_ID = "xxxxxxxxx"
 SCOPES = ['https://www.googleapis.com/auth/blogger', 'https://www.googleapis.com/auth/drive.file']
 
 
@@ -84,7 +84,7 @@ import json
 
 # content = ''
 
-image_view_link = 'https://1.bp.blogspot.com/-QwjKgO8BvSM/X80QExwlQQI/AAAAAAAAB5o/zANolYnPqcc_cFNblRJP4h-OzbZyWWYjQCLcBGAsYHQ/w800/%25E0%25A6%25B2%25E0%25A6%25BF%25E0%25A6%25A1%25E0%25A6%25BE%25E0%25A6%25B0%25E0%25A6%25B6%25E0%25A7%2580%25E0%25A6%25AA%2B%25E0%25A6%25AC%25E0%25A6%2587%2B-%2BLeadership%2BBangla%2BPdf%2BDownload.jpg'
+image_view_link = 'xxxxx'
 image1 = '<div class="separator" style="clear: both; text-align: center;"><a href="" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="400" src='+ image_view_link +'width="321" /></a></div><div class="separator" style="clear: both; text-align: center;"></div>'
 # '+image1+'
 
