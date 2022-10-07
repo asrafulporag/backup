@@ -84,17 +84,17 @@ import json
 
 # content = ''
 
-image_view_link = 'xxxxx'
+image_view_link = 'img_link_ta_diyen_monir_vai'
 image1 = '<div class="separator" style="clear: both; text-align: center;"><a href="" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="400" src='+ image_view_link +'width="321" /></a></div><div class="separator" style="clear: both; text-align: center;"></div>'
 # '+image1+'
 
 
-content ='ami '+image1+''
+content ='ekahen paragraph hobe. sub heading hbe, sob raw code likhben. '+image1+''
 
 data = {
     'content': content,
-    'title':'নেতৃত্ব প্রদান Pdf free Download📖',
-    'labels' : ['Bangla Pdf'],
+    'title':'This is heading 01',
+    'labels' : ['category_1'],
     'blog': {
         'id': BLOG_ID, # The identifier of the Blog that contains this Post.
       },
